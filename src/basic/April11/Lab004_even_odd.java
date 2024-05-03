@@ -8,8 +8,8 @@ public class Lab004_even_odd {
         System.out.println("Enter the number");
         int num = sc.nextInt();
         if (num%2==0)
-            System.out.println("Even Number");
+            System.out.println("Output is Even Number");
         else
-            System.out.println("odd Number");
+            System.out.println("Output is odd Number");
     }
 }
